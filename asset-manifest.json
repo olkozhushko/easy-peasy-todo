@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/easy-peasy-todo/static/css/main.b068f3b0.chunk.css",
+    "main.js": "/easy-peasy-todo/static/js/main.34341c40.chunk.js",
+    "main.js.map": "/easy-peasy-todo/static/js/main.34341c40.chunk.js.map",
+    "runtime~main.js": "/easy-peasy-todo/static/js/runtime~main.1f7a8a4b.js",
+    "runtime~main.js.map": "/easy-peasy-todo/static/js/runtime~main.1f7a8a4b.js.map",
+    "static/css/2.266e55a5.chunk.css": "/easy-peasy-todo/static/css/2.266e55a5.chunk.css",
+    "static/js/2.7299655a.chunk.js": "/easy-peasy-todo/static/js/2.7299655a.chunk.js",
+    "static/js/2.7299655a.chunk.js.map": "/easy-peasy-todo/static/js/2.7299655a.chunk.js.map",
+    "index.html": "/easy-peasy-todo/index.html",
+    "precache-manifest.950b86c54ba4fef6d83215b2153b4d0f.js": "/easy-peasy-todo/precache-manifest.950b86c54ba4fef6d83215b2153b4d0f.js",
+    "service-worker.js": "/easy-peasy-todo/service-worker.js",
+    "static/css/2.266e55a5.chunk.css.map": "/easy-peasy-todo/static/css/2.266e55a5.chunk.css.map",
+    "static/css/main.b068f3b0.chunk.css.map": "/easy-peasy-todo/static/css/main.b068f3b0.chunk.css.map"
+  }
+}
